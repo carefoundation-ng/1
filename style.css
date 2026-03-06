@@ -456,7 +456,7 @@ body {
 }
 
 .partners-section h2 {
-    font-size: 32px;
+    font-size: 20px;
     margin-bottom: 20px;
     text-align: center;
     color: var(--text-dark);
@@ -744,6 +744,7 @@ body {
         font-size: 22px;
     }
 }
+
 
 
 
